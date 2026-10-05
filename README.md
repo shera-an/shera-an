@@ -23,8 +23,9 @@
 
 ### 🕒 My Coding Activity
 
-<!--START_SECTION:wakatime-->
-<!--END_SECTION:wakatime-->
+<p align="center">
+  <img src="https://vercel.app" width="85%" alt="WakaTime Stats" />
+</p>
 
 ---
 
