@@ -24,7 +24,7 @@
 ### 🕒 My Coding Activity
 
 <p align="center">
-  <img src="https://wakatime.com" width="100%" alt="WakaTime Activity Grid" />
+  <img src="https://wakatime.com" alt="Total Time Spent Coding" />
 </p>
 
 ---
