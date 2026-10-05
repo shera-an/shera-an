@@ -23,7 +23,8 @@
 
 ### 🕒 My Coding Activity
 
-🔗 [Посмотреть мои часы кодинга в реальном времени на WakaTime](https://wakatime.com/@e97be42e-6018-4459-aab7-331319da96cb)
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 
 ---
 
