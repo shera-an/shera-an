@@ -1,6 +1,8 @@
 # Hi, I'm Anton! 👋
 
-![Java Coding GIF](https://giphy.com)
+<p align="center">
+  <img src="https://githubusercontent.com" width="100%">
+</p>
 
 👨‍💻 **About Me:** An aspiring software engineer from Russia. Focused on building solid foundations in backend development and writing clean code.
 
@@ -11,7 +13,10 @@
 
 ## 🛠️ Tech Stack & Tools
 
-![Java](https://shields.io) ![IntelliJ IDEA](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Lombok](https://shields.io)
+* **Language:** Java
+* **IDE:** IntelliJ IDEA
+* **Version Control:** Git & GitHub
+* **Libraries:** Lombok
 
 ## 🎯 Future Goals (What I plan to learn next)
 
@@ -23,10 +28,13 @@
 
 ## 🕒 My Coding Activity (WakaTime)
 
-![WakaTime Stats](https://vercel.app)
+<p align="center">
+  <!-- Альтернативный супер-стабильный сервер для вывода твоей графики WakaTime -->
+  <img src="https://vercel.app" width="85%" alt="WakaTime Stats" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 
-[![Email](https://shields.io)](mailto:steel.deezer@gmail.com)
+📬 **Email:** [steel.deezer@gmail.com](mailto:steel.deezer@gmail.com)
