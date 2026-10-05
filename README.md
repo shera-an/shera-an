@@ -1,24 +1,19 @@
 # Hi, I'm Anton! 👋
 
-<p align="center">
-  <img src="https://githubusercontent.com" width="100%">
-</p>
-
-👨‍💻 **About Me:** An aspiring software engineer from Russia. Focused on building solid foundations in backend development and writing clean code.
-
-🌱 **Current Focus:** Deep diving into **Java Core** (OOP, collections, basic algorithms).
-🗣️ **Languages:** Russian (Native) | English (Learner)
+> 👨‍💻 **About Me:** An aspiring software engineer from Russia. Focused on building solid foundations in backend development and writing clean code.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-* **Language:** Java
-* **IDE:** IntelliJ IDEA
-* **Version Control:** Git & GitHub
-* **Libraries:** Lombok
+* ☕ **Language:** Java
+* 💻 **IDE:** IntelliJ IDEA
+* 🌿 **Version Control:** Git & GitHub
+* 📦 **Libraries:** Lombok
 
-## 🎯 Future Goals (What I plan to learn next)
+---
+
+### 🎯 Future Goals (What I plan to learn next)
 
 * 🗄️ **Databases:** SQL (PostgreSQL / MySQL)
 * 🍃 **Frameworks:** Spring Boot
@@ -26,15 +21,12 @@
 
 ---
 
-## 🕒 My Coding Activity (WakaTime)
+### 🕒 My Coding Activity
 
-<p align="center">
-  <!-- Альтернативный супер-стабильный сервер для вывода твоей графики WakaTime -->
-  <img src="https://vercel.app" width="85%" alt="WakaTime Stats" />
-</p>
+🔗 [Посмотреть мои часы кодинга в реальном времени на WakaTime](https://wakatime.com/@e97be42e-6018-4459-aab7-331319da96cb)
 
 ---
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
-📬 **Email:** [steel.deezer@gmail.com](mailto:steel.deezer@gmail.com)
+* 📧 **Email:** steel.deezer@gmail.com
