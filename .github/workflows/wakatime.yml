@@ -1,0 +1,18 @@
+name: WakaTime Coding Activity
+
+on:
+  schedule:
+    # Автоматическое обновление каждую ночь в 00:00
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Позволяет запускать график вручную в любое время
+
+jobs:
+  update-readme:
+    name: Update WakaTime Graph
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: wakatime
