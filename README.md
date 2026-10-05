@@ -24,7 +24,7 @@
 ### 🕒 My Coding Activity
 
 <p align="center">
-  <img src="https://vercel.app" width="85%" alt="WakaTime Stats" />
+  <img src="https://wakatime.com" width="100%" alt="WakaTime Activity Grid" />
 </p>
 
 ---
