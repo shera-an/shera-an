@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-* ☕ **Language:** Java
+* ☕ **Language:** Java Core (OOP, Collections, Algorithms)
 * 💻 **IDE:** IntelliJ IDEA
 * 🌿 **Version Control:** Git & GitHub
 * 📦 **Libraries:** Lombok
@@ -23,12 +23,10 @@
 
 ### 🕒 My Coding Activity
 
-<p align="center">
-  <img src="https://wakatime.com" alt="Total Time Spent Coding" />
-</p>
+📊 [Посмотреть мою подробную статистику и часы кодинга в реальном времени на WakaTime](https://wakatime.com/@e97be42e-6018-4459-aab7-331319da96cb)
 
 ---
 
 ### 📫 Let's Connect!
 
-* 📧 **Email:** steel.deezer@gmail.com
+* 📧 **Email:** shera.an@outlook.com
